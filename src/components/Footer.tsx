@@ -125,9 +125,9 @@ const Footer = () => {
             </div>
 
             <div className="flex space-x-6 text-sm">
-              <a href="https://salescentri.com/trust/security-privacy" className="text-gray-400 hover:text-blue-400 transition-colors">
+              <Link to="/privacy-policy" className="text-gray-400 hover:text-blue-400 transition-colors">
                 Privacy Policy
-              </a>
+              </Link>
               <a href="https://salescentri.com/trust/compliance-certifications" className="text-gray-400 hover:text-blue-400 transition-colors">
                 Terms of Service
               </a>
