@@ -5,7 +5,7 @@ const PrivacyPolicy = () => {
     <article className="container mx-auto max-w-4xl px-4 py-16">
       <header className="mb-10">
         <h1 className="mb-4 text-4xl font-bold text-gray-900">
-          Anti-Spam Policy – Strict Zero Tolerance
+          Anti-Spam Policy – Zero Tolerance
         </h1>
         <p className="text-gray-600">
           <strong>Website:</strong>{' '}
@@ -13,24 +13,22 @@ const PrivacyPolicy = () => {
             href="https://projectconsultantsusa.com/"
             className="text-blue-600 hover:text-blue-700"
           >
-            ProjectConsultantsUSA – Expert CRM Implementation
+            https://projectconsultantsusa.com/
           </a>
         </p>
       </header>
 
       <div className="space-y-8 text-gray-700 leading-relaxed">
         <section>
-          <h2 className="mb-3 text-2xl font-semibold text-gray-900">
-            1. Our Commitment to Preventing Spam
-          </h2>
+          <h2 className="mb-3 text-2xl font-semibold text-gray-900">1. Introduction</h2>
           <p>
-            Project Consultants USA is committed to maintaining a spam-free online environment. We have a
-            strict zero-tolerance policy toward unsolicited advertising, promotional messages, and unauthorized
-            communications involving our website.
+            Project Consultants USA is committed to maintaining a professional and secure online presence. We
+            strongly oppose unsolicited advertising, spam messages, and unauthorized promotional activities
+            involving our website or business name.
           </p>
           <p className="mt-3">
             No individual, company, marketing agency, affiliate, or third-party service provider is permitted to
-            promote or distribute our website through unsolicited communications.
+            promote our website through unsolicited communications without prior written authorization.
           </p>
         </section>
 
@@ -38,72 +36,75 @@ const PrivacyPolicy = () => {
           <h2 className="mb-3 text-2xl font-semibold text-gray-900">2. Prohibited Activities</h2>
           <p>The following activities are strictly prohibited:</p>
           <ul className="mt-3 list-disc space-y-2 pl-6">
-            <li>Sending unsolicited marketing or promotional emails containing links to or references to projectconsultantsusa.com.</li>
-            <li>Advertising our website through unsolicited SMS, WhatsApp, social media messages, or other digital communication channels.</li>
-            <li>Using purchased, collected, scraped, or unauthorized contact lists for promotional purposes.</li>
-            <li>Employing automated tools or software to distribute unsolicited advertisements.</li>
-            <li>Using misleading identities, falsifying email information, or falsely claiming an affiliation with Project Consultants USA.</li>
-            <li>Hiring or authorizing third parties to carry out spam or unsolicited marketing campaigns on our behalf.</li>
+            <li>Sending unsolicited commercial emails containing links to or references to projectconsultantsusa.com.</li>
+            <li>Promoting our website through unwanted SMS, WhatsApp messages, social media messages, or other electronic communication channels.</li>
+            <li>Using purchased, scraped, harvested, or unauthorized email addresses and contact lists for marketing purposes.</li>
+            <li>Utilizing automated software, bots, or bulk messaging systems to distribute unsolicited advertisements.</li>
+            <li>Impersonating Project Consultants USA, falsifying email sender information, or making misleading claims about an official business relationship.</li>
+            <li>Engaging third-party agencies or individuals to conduct unauthorized promotional campaigns on behalf of our company.</li>
           </ul>
         </section>
 
         <section>
-          <h2 className="mb-3 text-2xl font-semibold text-gray-900">3. Unauthorized Promotional Activities</h2>
+          <h2 className="mb-3 text-2xl font-semibold text-gray-900">3. Unauthorized Website Promotion</h2>
           <p>
-            Project Consultants USA does not permit unauthorized individuals or organizations to advertise or
-            promote its website through unsolicited communications.
+            Project Consultants USA does not grant permission to any external individual or organization to
+            advertise or distribute information about our website through unsolicited communication methods.
           </p>
           <p className="mt-3">
-            Any person or entity engaging in such activities without prior authorization will be independently
-            responsible for their conduct and any consequences arising from it.
+            Any person or organization involved in unauthorized promotional activities shall be responsible for
+            their actions and any resulting consequences under applicable laws.
+          </p>
+          <p className="mt-3">
+            We do not support marketing campaigns that misuse our company name, website address, or business
+            identity.
           </p>
         </section>
 
         <section>
-          <h2 className="mb-3 text-2xl font-semibold text-gray-900">4. Legal Consequences and Enforcement</h2>
-          <p>Violations of this policy may result in legal action and other remedies available under applicable laws.</p>
-          <p className="mt-3">Project Consultants USA reserves the right to:</p>
+          <h2 className="mb-3 text-2xl font-semibold text-gray-900">4. Legal Action and Enforcement</h2>
+          <p>
+            Project Consultants USA reserves the right to take appropriate action against individuals or
+            organizations found violating this policy.
+          </p>
+          <p className="mt-3">Depending on the nature of the violation, such actions may include:</p>
           <ul className="mt-3 list-disc space-y-2 pl-6">
-            <li>Pursue civil or criminal remedies wherever legally applicable.</li>
-            <li>Notify law enforcement agencies and relevant regulatory bodies about violations.</li>
-            <li>Seek compensation for financial losses, reputational harm, and other damages resulting from unauthorized activities.</li>
-            <li>Terminate business partnerships, affiliate arrangements, or contractual relationships with responsible parties.</li>
-            <li>Submit complaints to internet service providers, hosting companies, domain registrars, and email service providers.</li>
+            <li>Initiating civil or criminal proceedings wherever legally applicable.</li>
+            <li>Reporting violations to law enforcement agencies and relevant regulatory authorities.</li>
+            <li>Seeking compensation for financial losses, business disruption, and reputational damage.</li>
+            <li>Terminating business partnerships, affiliate agreements, or other contractual relationships.</li>
+            <li>Reporting abusive activities to internet service providers, hosting companies, domain registrars, and email service providers.</li>
           </ul>
           <p className="mt-3">
-            We reserve the right to take appropriate action against any individual or organization involved in
-            violating this policy.
+            All necessary measures will be considered in accordance with applicable laws and regulations.
           </p>
         </section>
 
         <section>
-          <h2 className="mb-3 text-2xl font-semibold text-gray-900">5. Reporting Unsolicited Communications</h2>
+          <h2 className="mb-3 text-2xl font-semibold text-gray-900">5. Reporting Spam</h2>
           <p>
-            If you receive an unsolicited message promoting or referencing projectconsultantsusa.com, we encourage
-            you to report it through the official contact information provided on our website.
+            If you receive any unsolicited communication advertising or referencing projectconsultantsusa.com,
+            please report it through the official contact channels available on our website.
           </p>
           <p className="mt-3">
-            Where possible, please include the original message, full email headers, sender details, and any other
-            relevant evidence to help us investigate the incident.
+            To help us investigate the incident, please provide the original message, sender details, complete
+            email headers (if available), screenshots, and any other relevant supporting information.
           </p>
         </section>
 
         <section>
           <h2 className="mb-3 text-2xl font-semibold text-gray-900">6. Final Statement</h2>
           <p>
-            Project Consultants USA strongly opposes spam, misleading promotions, and all forms of unauthorized
-            advertising.
+            Project Consultants USA is dedicated to protecting its online reputation and maintaining ethical
+            communication standards. We strongly reject spam, misleading promotions, and unauthorized
+            advertising activities.
           </p>
           <p className="mt-3">
-            We are committed to protecting our brand, maintaining professional communication standards, and
-            ensuring that our website is not associated with unsolicited marketing practices.
-          </p>
-          <p className="mt-3">
-            All violations will be addressed seriously, with appropriate action taken to the fullest extent
-            permitted by applicable law.
+            Any individual or organization found responsible for violating this policy may face appropriate
+            enforcement measures and legal consequences to the fullest extent permitted by applicable law.
           </p>
           <p className="mt-6 font-bold text-gray-900">
-            ZERO SPAM. ZERO TOLERANCE. NO UNAUTHORIZED PROMOTION.
+            ZERO SPAM. ZERO TOLERANCE. NO UNAUTHORIZED ADVERTISING.
           </p>
           <p className="mt-3 font-semibold text-gray-900">
             ProjectConsultantsUSA – Expert CRM Implementation
